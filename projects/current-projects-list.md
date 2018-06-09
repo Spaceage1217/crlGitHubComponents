@@ -1,5 +1,5 @@
 * [Machine Learning-based Autotuning](autotuning.html)
-* [Adaptive Algorithms for Optimization Problems in OR](or.php)
+* [Adaptive Algorithms for Optimization Problems in OR](or.html)
 * [GPU Memory Hierarchy Management](memory_hierarchy_gpu.php)
 * [Shared High-Performance Data Center](data_center.php)
 * [Power-aware Task Scheduling](power_aware_scheduling.php)

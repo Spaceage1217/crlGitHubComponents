@@ -1,0 +1,11 @@
+# ADAPTIVE ALGORITHMS FOR OPTIMIZATION PROBLEMS IN OR
+PI: Apan Qasem
+--------------
+Students: Abhilash Chaparala Chandra Kolla
+------------------------------------------
+Collaborators: Clara Novoa (Texas State)
+----------------------------------------
+Funding: Research Enhancement Program at Texas State, Nvidia
+------------------------------------------------------------
+
+This collaborative research endeavor aims to build new algorithmic foundations for combinatorial optimization problems. In recent years, we have seen an exponential growth in the volume of digital data. The availability of this so-called big data has had a transformative effect in many spheres including scientific discovery, social processes and national security. The impact in the field of operations research is also significant. In particular, the rise of big data has created new challenges for developing scalable and efficient algorithms for many problems in this area. Simultaneous to the growth of data, there has been a major shift in high-performance computing (HPC) hardware. The emergence of multicore processors, graphical processing units for general purpose computing (GPGPU), and heterogeneous systems-on-chip (SOC) architectures has dramatically increased the performance potential of HPC systems. Unfortunately, the increased complexity of these systems have also made it more difficult to extract the desired performance, particularly for non-expert programmers. Constructing efficient algorithms for these systems requires a new mode of thinking about problems and dealing with multiple levels of parallelism. In this work, we address this two-pronged challenge. We propose a novel approach for developing efficient and portable combinatorial optimization algorithms to tackle big data problems on emerging high-performance architectures. Specifically, we focus on a family of problems that fall under the category of facility layout (FLP), a critically important problem in the areas of manufacturing, health care, and service engineering. We are investigating fundamental challenges in porting FLP solutions across different architectures and developing a collection of parallel algorithms founded on different mathematical approaches. We are employing machine learning based strategy to adapt each algorithm to the target data sets and architectures
