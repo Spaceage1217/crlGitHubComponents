@@ -1,15 +1,11 @@
-Machine-Learning-based Autotuning
-=================================
+# Machine-Learning-based Autotuning
 
 PI: Apan Qasem
 --------------
-
 Students: Saami Rahman, Biplab Kumar Saha, Tiffany Connors, Illiana Reed
 ------------------------------------------------------------------------
-
 Collaborators: Qing Yi (UCCS), Martin Burtscher (Texas State)
 -------------------------------------------------------------
-
 Funding: National Science Foundation Early CAREER Award
 -------------------------------------------------------
 
